@@ -9,11 +9,11 @@
 
 1. Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"
 2. Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:
-  npm install
-  npm init
-  npm install --save express
-  npm install ejs --save
-  npm install --save request
+ <p> npm install</p>
+ <p> npm init</p>
+ <p> npm install --save express</p>
+ <p> npm install ejs --save</p>
+ <p> npm install --save request</p>
 
 
 <h2>Contacto:</h2>
