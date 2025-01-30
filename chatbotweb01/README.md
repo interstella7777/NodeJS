@@ -22,5 +22,8 @@
 <p>Para iniciar escribe en la consola: node app.js</p>
 <p>Abre el navegador web y ingresa a la direccion: localhost:8080</p>
 
+<h2>3 - Referencia</h2>
+https://youtu.be/cTSGKBWZiJA?si=iuV2IiUE5amJ7FpW
+
 <h2>3. Contacto</h2>
 Si tienes alguna duda puedes escribirme al correo: bryansamir@gmail.com
