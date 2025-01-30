@@ -7,8 +7,8 @@
 <h2>1 .Instalacion:</h2>
 <p>Para su correcto funcionamiento sigue estos pasos:</p>
 
-1. Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"
-2. Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:
+ <p>1. Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"</p>
+ <p>2. Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:</p>
  <p> npm install</p>
  <p> npm init</p>
  <p> npm install --save express</p>
