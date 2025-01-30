@@ -15,7 +15,7 @@
  <p> npm install ejs --save</p>
  <p> npm install --save request</p>
 
- <h2>1.3 - Copiar Archivos</h2>
+ <p> 1.3 - Copiar Archivos</p>
 <p>Descarga todos los Archivos del Repositorio y lo pegas en tu carpeta.</p>
 
 <h2>2 - Uso</h2>
