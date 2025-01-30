@@ -1,6 +1,6 @@
 <h1>Chatbot Web NodeJS</h1>
 
-<p>Sistema de chatbot basico creado con NodeJS.</p>
+<p>Sistema de chatbot basico creado con NodeJS y Bootstrap.</p>
 
 ![Preview](https://github.com/interstella7777/NodeJS/blob/main/chatbotweb01/Maria%20Chatbotweb%20v01.JPG)
 
