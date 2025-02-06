@@ -7,7 +7,7 @@
 <h2>1 - Instalacion</h2>
 <p>Para su correcto funcionamiento sigue estos pasos:</p>
  <p>1.1 - Install NodeJS, descarga del sitio web: https://nodejs.org/</p>
- <p>1.2 - Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"</p>
+ <p>1.2 - Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS" o el nombre que tu quieras.</p>
  <p>1.3 - Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:</p>
  <p> npm install</p>
  <p> npm init</p>
