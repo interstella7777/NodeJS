@@ -6,16 +6,16 @@
 
 <h2>1 - Instalacion</h2>
 <p>Para su correcto funcionamiento sigue estos pasos:</p>
-
- <p>1.1 - Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"</p>
- <p>1.2 - Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:</p>
+ <p>1.1 - Install NodeJS, descarga del sitio web: https://nodejs.org/</p>
+ <p>1.2 - Crea un Nuevo proyecto o Carpeta con el nombre "ChatbotNodeJS"</p>
+ <p>1.3 - Ejecuta los siguientes comando en la consola CMD para inicializar el proyecto y instalar las librerias:</p>
  <p> npm install</p>
  <p> npm init</p>
  <p> npm install --save express</p>
  <p> npm install ejs --save</p>
  <p> npm install --save request</p>
 
- <p> 1.3 - Copiar Archivos</p>
+ <p> 1.4 - Copiar Archivos</p>
 <p>Descarga todos los Archivos del Repositorio y lo pegas en tu carpeta.</p>
 
 <h2>2 - Uso</h2>
